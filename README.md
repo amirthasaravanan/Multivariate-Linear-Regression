@@ -58,24 +58,8 @@ print(ypred)
 plt.scatter(x,y,color='Red')
 plt.plot(x,ypred,color='Blue')
 plt.show()
-
-
-
-
-
-
-
-
-
-
 ```
 ## Output:
-
-
 ![practical](https://github.com/user-attachments/assets/8d646808-c526-4f25-8cbd-c6bc82b67926)
-
-
-
-
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
