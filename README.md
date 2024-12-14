@@ -50,10 +50,7 @@ coefficients: [0.00755095 0.00780526]
 Intercept: 79.69471929115939
 Predicted co2 for thr corresponding weight and volume [111.71387814]
 ```
-
 ## Insert your Output
-
 ![Screenshot (5)](https://github.com/user-attachments/assets/b835a25c-c8d5-4742-9369-5fe1c0efb932)
-
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
